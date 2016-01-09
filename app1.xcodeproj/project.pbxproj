@@ -47,7 +47,7 @@
 		7EAE26111C3F343A00F3544F /* app1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = app1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EAE26151C3F343A00F3544F /* app1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = app1UITests.swift; sourceTree = "<group>"; };
 		7EAE26171C3F343A00F3544F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7EFCA63B1C40C12B0083B7CC /* juego de memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "juego de memoria.playground"; path = "../../juego de memoria.playground"; sourceTree = "<group>"; };
+		7EFCA63B1C40C12B0083B7CC /* juego de memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "juego de memoria.playground"; path = "../juego de memoria.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +82,7 @@
 				7EAE26091C3F343A00F3544F /* app1Tests */,
 				7EAE26141C3F343A00F3544F /* app1UITests */,
 				7EAE25F31C3F343A00F3544F /* Products */,
+				7EFCA63B1C40C12B0083B7CC /* juego de memoria.playground */,
 			);
 			sourceTree = "<group>";
 		};
@@ -102,7 +103,6 @@
 				7EAE25F71C3F343A00F3544F /* ViewController.swift */,
 				7EAE25F91C3F343A00F3544F /* Main.storyboard */,
 				7EAE25FC1C3F343A00F3544F /* Assets.xcassets */,
-				7EFCA63B1C40C12B0083B7CC /* juego de memoria.playground */,
 				7EAE25FE1C3F343A00F3544F /* LaunchScreen.storyboard */,
 				7EAE26011C3F343A00F3544F /* Info.plist */,
 			);
